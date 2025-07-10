@@ -7,7 +7,7 @@ const Navbar = () => {
     return (
         <nav className="navbar">
             <Link href="/">
-                <div className="flex items-center gap-2.5 cursor-pointer">
+                <div className="hidden md:flex items-center gap-2.5 cursor-pointer">
                     <Image
                         src="/images/logo.svg"
                         alt="logo"
