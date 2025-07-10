@@ -2,7 +2,7 @@
   
       
 
-  <h3 align="center">SaaS App - LMS with Next.js, Supabase & Payments</h3>
+  <h3 align="center">Converso</h3>
 
    
 </div>
@@ -127,3 +127,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 
 
+@Abdi Gashahun
